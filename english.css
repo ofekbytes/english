@@ -1,0 +1,65 @@
+body {
+    color: white;
+    background: black;
+    font-family: "Indie Flower", Lobster;
+    font-size: 32px;
+}
+
+
+
+.titlesMediumsize {
+    color: rgb(196, 196, 63);
+    text-shadow: 5px 2px 3px rgb(77, 177, 77);   
+    /* yellowgreen */
+}
+
+
+.headBlock {
+    border: 4px double #20bcd5;
+    padding: 10px;
+    display: block;
+    border-width:12px;
+}
+
+
+footer {
+    color: white;
+    background: blue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+#title {
+    /* text-align: center; */
+    /* color: red; */
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
+pic {
+    align-content: center;
+}
+
+
+th,
+tr,
+td {
+    text-align: center;
+}
+
+.titleSecondLine {
+    color: rgb(230, 88, 23);
+    text-shadow: 5px 2px 3px rgb(61, 35, 175);
+}
+
+
+hr {
+    background-color: black; /* rgb(196, 196, 63);*/
+    border-style: none;
+    border-top-style: dashed;
+    height: 0px;
+    border-width:6px;
+    width: 15%;
+}
