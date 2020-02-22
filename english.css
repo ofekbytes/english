@@ -5,11 +5,24 @@ body {
     font-size: 32px;
 }
 
+a:hover {
+    text-decoration: underline;
+    /* color: red; */
+}
+    
+a {
+    text-decoration: none;
+    color: white;
+}
 
+
+a:visited {
+    color: white;
+}
 
 .titlesMediumsize {
     color: rgb(196, 196, 63);
-    text-shadow: 5px 2px 3px rgb(77, 177, 77);   
+    text-shadow: 5px 2px 3px rgb(77, 177, 77);
     /* yellowgreen */
 }
 
@@ -18,7 +31,7 @@ body {
     border: 4px double #20bcd5;
     padding: 10px;
     display: block;
-    border-width:12px;
+    border-width: 12px;
 }
 
 
@@ -56,10 +69,11 @@ td {
 
 
 hr {
-    background-color: black; /* rgb(196, 196, 63);*/
+    background-color: black;
+    /* rgb(196, 196, 63);*/
     border-style: none;
     border-top-style: dashed;
     height: 0px;
-    border-width:6px;
+    border-width: 6px;
     width: 15%;
 }
