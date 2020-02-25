@@ -1,0 +1,32 @@
+
+
+
+
+What are English vowels?
+A vowel is a particular kind of speech sound made by changing the shape of the upper vocal tract, or the area in the mouth above the tongue. ... 
+These letters are vowels in English: A, E, I, O, U, and sometimes Y.
+ It is said that Y is "sometimes" a vowel, because the letter Y represents both vowel and consonant sounds
+
+
+--[English vowels]--
+A, E, I, O, U
+-!- ['Y' - is sometimes a vowels].
+
+--[A -or- AN]--
+
+AN --> next word start with vowels(A, E, I, O, U)
+AN Apple
+AN Egg
+
+A --> next word start without vowels(A, E, I, O, U)
+A Book
+A Table
+
+--[SOME / ANY]--
+
+SOME --> positive sentence
+ANY --> negative sentence
+
+
+
+
